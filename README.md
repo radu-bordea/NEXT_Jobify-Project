@@ -6,3 +6,4 @@
 // commands:
 - npx shadcn@latest init
 - npx shadcn@latest add button
+- npm install @clerk/nextjs
