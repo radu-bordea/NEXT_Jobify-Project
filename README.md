@@ -7,3 +7,5 @@
 - npx shadcn@latest init
 - npx shadcn@latest add button
 - npm install @clerk/nextjs
+- npx shadcn@latest add dropdown-menu
+- npm install next-theme
