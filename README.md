@@ -9,3 +9,5 @@
 - npm install @clerk/nextjs
 - npx shadcn@latest add dropdown-menu
 - npm install next-theme
+- npx shadcn@latest add form input
+- npx shadcn@latest add select
